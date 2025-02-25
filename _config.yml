@@ -16,10 +16,10 @@ timezone: Asia/Shanghai
 
 title: 烧鱼の个人博客 # the main title
 
-tagline: 一个以平常心记录学习与经验的独立网站 # it will display as the subtitle
+tagline: 一个记录学习与经验的独立网站 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  这里并不生产知识，这里只是经验的搬运工
+  这里并不生产智慧，这里只是知识的搬运工。
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://shaoyu-zhang.github.io"
