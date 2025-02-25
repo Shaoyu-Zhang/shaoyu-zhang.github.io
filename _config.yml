@@ -14,12 +14,12 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 烧鱼の个人博客 # the main title
+title: Shaoyu Blog # the main title
 
-tagline: 一个专注于记录知识与经验的个人网站 # it will display as the subtitle
+tagline: A blog focus on knowledge and experience # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  这里并不生产知识，这里只是观点的搬运工
+  It is not a producer, but a consumer
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://shaoyu-zhang.github.io"
